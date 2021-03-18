@@ -1,5 +1,6 @@
 job "http-echo" {
   datacenters = ["dc-openstack-bhenkel"]
+  namespace = "bhenkel"
   group "echo" {
       ephemeral_disk {
       size    = 10
