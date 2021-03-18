@@ -8,8 +8,8 @@ job "nginx" {
             static = 8080
           }
         }
-    count = 1
-    task "redis" {
+    count = 2
+    task "nginx" {
       driver = "docker"
       config {
         image = "nginx:1.11.10"

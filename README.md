@@ -17,3 +17,4 @@ Initial questions in no specific order:
 Links of intrest:
 
 * https://liet.me/2020/09/20/howto-setup-nomad-traefik-and-cloudflare/
+* Wire prometheus with nomad server and clients https://learn.hashicorp.com/tutorials/nomad/prometheus-metrics
