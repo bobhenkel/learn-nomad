@@ -18,3 +18,7 @@ Links of intrest:
 
 * https://liet.me/2020/09/20/howto-setup-nomad-traefik-and-cloudflare/
 * Wire prometheus with nomad server and clients https://learn.hashicorp.com/tutorials/nomad/prometheus-metrics
+* https://groups.google.com/g/nomad-tool/c/Er34KXcW5W4
+* https://discuss.hashicorp.com/t/how-to-run-a-raw-exec-task-as-non-root-user/16597/13
+* https://groups.google.com/g/nomad-tool/c/pSyMwC_FSFA
+* Run a one off job on all targeted nodes once https://github.com/hashicorp/nomad/issues/1944
